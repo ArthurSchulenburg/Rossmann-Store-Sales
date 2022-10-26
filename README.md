@@ -1,2 +1,4 @@
 # Rossmann-Store-Sales
-Previsão de vendas da loja Rossmann usando a ferramenta Facebook Prophet
+
+[Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales/code)
+[Prophet](https://facebook.github.io/prophet/)
